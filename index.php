@@ -1,1 +1,3 @@
-<?php echo 'Hello'; ?>
+<?php echo 'Hello';
+/*This page will contain links to blog, photos and programs and a short about me and links to external platforms*/
+?>
