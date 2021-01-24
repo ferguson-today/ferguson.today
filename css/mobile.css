@@ -4,7 +4,6 @@
 .photo-row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
   margin: 0px auto;
   background-color: #232323;
 }
@@ -47,36 +46,3 @@
   padding: 20px;
 }
 /*Photos Page*/
-
-.photo-row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-  margin: 0px auto;
-  background-color: #000;
-}
-
-/* Create four equal columns that sits next to each other */
-.photo-column {
-  flex: 100%;
-  max-width: 100%;
-  padding: 0 4px;
-}
-
-.photo-column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-.media-sec{
-  background-color: #000;
-}
-.media-sec img{
-  width: 50%;
-  display: block;
-  margin: auto;
-}
-.media-sec video{
-  width: 100%;
-  display: block;
-}

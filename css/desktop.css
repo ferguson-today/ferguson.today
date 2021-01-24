@@ -31,9 +31,8 @@
 .photo-row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
   margin: 0px auto;
-  background-color: #232323;;
+  background-color: #232323;
 }
 
 /* Create four equal columns that sits next to each other */

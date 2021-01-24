@@ -58,3 +58,7 @@ header h3 {
 .sm-tag a:hover{
   color: #fff;
 }
+.photo-row {
+  padding: 0 4px;
+  padding-bottom: 10px;
+}
