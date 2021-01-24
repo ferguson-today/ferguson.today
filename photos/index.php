@@ -46,8 +46,9 @@
         <!--<img src="img/p7.jpg" alt="">-->
 
       </div>
-<hr>
+
     </div>
+    <hr>
     <div class="sm-tag">
       <a href="https://instagram.com/ferguson.today" target="_blank"><span class="f-sm-link fa fa-instagram"></span></a>
     </div>
