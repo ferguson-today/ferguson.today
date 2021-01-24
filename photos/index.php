@@ -18,7 +18,9 @@
       <h3>By Charles Ferguson</h3>
     </header>
     <div class="about">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>
+        My name is Charles, I'm a web developer and photographer. On this website I'll have information about my projects and I'll post my best photos for all to see. I'm working on new features to make the user experience better, if you're interested in seeing the code you can find it on <a href="https://github.com/ferguson-today/ferguson.today">github</a>.
+      </p>
     </div>
     <div class="photo-year">
       <h3>2017</h3>
